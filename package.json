@@ -1,0 +1,29 @@
+{
+  "name": "myday",
+  "version": "0.1.0",
+  "description": "Another project for my todo list",
+  "author": "Chip Irek",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "flexboxgrid": "6.3.1",
+    "font-awesome": "4.7.0",
+    "history": "4.5.1",
+    "material-ui": "0.17.0",
+    "react": "15.4.2",
+    "react-dom": "15.4.2",
+    "react-router": "3.0.2",
+    "react-tap-event-plugin": "2.0.1",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": ">= 6.4.0",
+    "npm": ">= 5.0.0"
+  }
+}
